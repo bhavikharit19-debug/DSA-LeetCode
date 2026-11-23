@@ -8,7 +8,7 @@ public:
         }
 
         sort(sqrs.begin(), sqrs.end());
-
+        
         return sqrs;
     }
 };
