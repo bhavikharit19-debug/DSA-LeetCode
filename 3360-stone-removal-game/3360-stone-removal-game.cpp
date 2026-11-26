@@ -13,20 +13,16 @@ public:
         while(n >= prev - 1) {
             if(prevturn == "alice") {
                 n -= prev - 1;
-                prev = prev - 1;
                 prevturn = "bob";
+                prev--;
             }
             else if(prevturn == "bob") {
                 n -= prev - 1;
-                prev = prev - 1;
                 prevturn = "alice";
+                prev--;
             }
         }
 
-        if(prevturn == "alice") {
-            return true;
-        }
-
-        return false;
+        return prevturn == "alice";
     }
 };
