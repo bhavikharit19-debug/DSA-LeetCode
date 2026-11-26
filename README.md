@@ -37,6 +37,7 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1037-valid-boomerang) |
+| [3360-stone-removal-game](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Geometry
 |  |
@@ -58,4 +59,8 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
