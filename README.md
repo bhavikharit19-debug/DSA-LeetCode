@@ -9,6 +9,7 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 | [0040-combination-sum-ii](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1037-valid-boomerang) |
+| [1929-concatenation-of-array](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
@@ -62,5 +63,6 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [3360-stone-removal-game](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
