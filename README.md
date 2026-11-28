@@ -7,6 +7,7 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
+| [0832-flipping-an-image](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1037-valid-boomerang) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -52,6 +53,7 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 ## Two Pointers
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -68,10 +70,16 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [3360-stone-removal-game](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3360-stone-removal-game) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
