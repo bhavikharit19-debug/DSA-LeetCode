@@ -11,6 +11,7 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 | [1037-valid-boomerang](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1037-valid-boomerang) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -22,6 +23,7 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3364-minimum-positive-sum-subarray](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
