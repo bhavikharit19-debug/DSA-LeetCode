@@ -11,6 +11,7 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 | [0977-squares-of-a-sorted-array](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1037-valid-boomerang) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1672-richest-customer-wealth](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
@@ -71,6 +72,7 @@ C++ solutions for LeetCode problems following Striver's A2Z DSA playlist. Covers
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/0832-flipping-an-image) |
+| [1389-create-target-array-in-the-given-order](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [3360-stone-removal-game](https://github.com/bhavikharit19-debug/DSA-LeetCode/tree/master/3360-stone-removal-game) |
 ## Matrix
